@@ -41,8 +41,8 @@ while guesses< max_guesses:
 
 #print("You got it in" , guesses, "guesses")
 
-#if guesses == max_guesses:
-   # print("you ran out of guesses! the number was" , random_number)
+if guesses == max_guesses:
+    print("you ran out of guesses!" )
 
      
 
